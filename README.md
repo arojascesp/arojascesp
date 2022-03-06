@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari Rojas</h1>
-<h3 align="center">A passionate junior full-stack developer from Chile</h3>
+<h3 align="center">A passionate full-stack developer from Chile</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
